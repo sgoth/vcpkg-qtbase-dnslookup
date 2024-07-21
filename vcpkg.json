@@ -17,7 +17,7 @@
     "default-registry": {
       "kind": "git",
       "repository": "https://github.com/sgoth/vcpkg",
-      "baseline": "f4913ac7d217f4eb4c380d8479c1d4aad594defc",
+      "baseline": "b6887e3dfd04b0f13112d9f12441081814d61130",
       "reference": "qtbase-dnslookup"
     }
   }
