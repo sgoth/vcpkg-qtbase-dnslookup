@@ -7,7 +7,6 @@
       "default-features": false,
       "features": [
         "doubleconversion",
-        "dnslookup",
         "network",
         "openssl",
         "thread"
