@@ -7,6 +7,7 @@
       "default-features": false,
       "features": [
         "doubleconversion",
+        "dnslookup",
         "network",
         "openssl",
         "thread"
@@ -16,8 +17,9 @@
   "vcpkg-configuration": {
     "default-registry": {
       "kind": "git",
-      "repository": "https://github.com/Microsoft/vcpkg",
-      "baseline": "c202ce4d469096bd6d46fe65de74a4737beee01b"
+      "repository": "https://github.com/sgoth/vcpkg",
+      "baseline": "f4913ac7d217f4eb4c380d8479c1d4aad594defc",
+      "reference": "qtbase-dnslookup"
     }
   }
 }
